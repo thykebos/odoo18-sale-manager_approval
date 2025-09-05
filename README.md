@@ -1,0 +1,1 @@
+# odoo18-sale-manager_approval
