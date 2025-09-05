@@ -1,2 +1,2 @@
-# odoo--project-management
-In this graduation project, she managed task assignment and tracking, implemented authorization and access controls to optimize workflows, and significantly improved team efficiency. This approach allowed users to easily manage their tasks while ensuring the right people had access to the right information.
+# odoo18-sale-manager_approval
+If the amount is ten thousand or more, the order cannot be completed without manager approval.
